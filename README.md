@@ -8,8 +8,8 @@
 </a>
 
 - 👋 Hi, I’m @ganeshmumbai2001
-- 👀 I’m interested to recreate the coding
-- 🌱 I'm Pursuing B.E CSE at Jaya Engineering College "24
+- 👀 I’m quite interested in recreating the code
+- 🌱 I'm Pursuing B.E CSE at Jaya Engineering College(2024)
 - 💞️ I’m looking to collaborate with new things and new skills
 - 📫 Reach me on ganeshmumbai2001@gmail.com
 - 💻 Connect with me on https://www.linkedin.com/in/ganesh-mumbai-b863a3203
