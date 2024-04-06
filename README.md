@@ -1,4 +1,3 @@
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrBwWJGcTH9f3vbryk1AwOdgGnhKb-JLeI_80_hXItE0ZUg1sMCJGSj-yTxKQzUMp2kECNUMFbHDJ2yV9G0PgekJLnK8pykbI1wHVLq-dwTq-l1mgAnbuqleggYHzvTzISQ0ir1vZxmv5QePgBQjXxhD0mFkQcNQuB29xJqrfs4vvZUtweNdtPuedWYg0/s320/WhatsApp%20Image%202023-04-26%20at%2020.53.42.jpg">
 <h1 align="center">Hi👋This is Ganesh</h1>
 <h3 align="center">A passionate frontend developer from India!</h3>
 
